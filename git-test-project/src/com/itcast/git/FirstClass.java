@@ -9,7 +9,7 @@ public class FirstClass {
 
     public void test(){
 
-
+        System.out.println("俊杰帅比");
     }
 }
 
