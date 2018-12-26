@@ -8,9 +8,10 @@ public class FirstClass {
 
 
     public void test(){
-
+        
         System.out.println("俊杰帅比");
         System.out.println("111");
+        System.out.println("zilian");
     }
 }
 
